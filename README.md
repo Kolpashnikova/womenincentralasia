@@ -2,7 +2,7 @@
 
 ## Time Use Tempograms for Kyrgyzstani Married Women and Men
 
-Women in Kyrgystan appear to spend much more time on housework and care activities compared to men. The first tempogram summarizes the activities of women on a regular work day. Women spend substantially less time on work and leisure activities.
+Women in Kyrgystan spend more time on housework and care activities compared to men. The first tempogram summarizes the activities of women on a regular work day. Women spend substantially less time on work and leisure activities.
 
 ![Image of Married Women on Weekdays](https://raw.githubusercontent.com/Kolpashnikova/womenincentralasia/master/img/married%20women%20on%20weekdays.png)
 
